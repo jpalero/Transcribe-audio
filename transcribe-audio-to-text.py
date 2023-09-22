@@ -28,7 +28,7 @@ def transcribe_audio(audio_file_path):
 if __name__ == "__main__":
     # Define the path to the audio file you want to transcribe
     # Replace with the actual path to your audio file
-    AUDIO_FILE_PATH = "C:\\Users\\jsonp\\OneDrive\\Desktop\\Output-record\\Sample.wav"
+    AUDIO_FILE_PATH = "C:\\Users\\path\\to\\your\\file\\Sample.wav"
 
     # Transcribe the audio and save the transcription to a text file
     transcribe_audio(AUDIO_FILE_PATH)
